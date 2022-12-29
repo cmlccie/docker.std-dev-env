@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Add targeted files to the docker build context
+!entrypoint.sh
+!home/
